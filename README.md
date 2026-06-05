@@ -26,9 +26,8 @@ of a retail superstore using multiple data analysis tools.
 | `summary.xlsx` | Excel summary report |
 
 ## 📷 Dashboard Preview
-
-
+![Dashboard](dashboard.png)
 
 ## 👤 Author
-Your Name
-www.linkedin.com/in/yourprofile
+Zia u Rehman
+[LinkedIn Profile](https://www.linkedin.com/feed/)
